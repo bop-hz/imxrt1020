@@ -58,13 +58,13 @@ int main(void) {
     PRINTF("Hello World\n");
 
     /* Force the counter to be placed into memory. */
-    volatile static int i = 0 ;
+
+
+
     /* Enter an infinite loop, just incrementing a counter. */
     while(1) {
-        i++ ;
-        /* 'Dummy' NOP to allow source level single stepping of
-            tight while() loop */
-        __asm volatile ("nop");
+    	SDK_DelayAtLeastUs(100000, SDK_DEVICE_MAXIMUM_CPU_CLOCK_FREQUENCY);
+    	GPIO_PortToggle(BOARD_USER_LED_GPIO,1u<<BOARD_USER_LED_GPIO_PIN);
     }
     return 0 ;
 }

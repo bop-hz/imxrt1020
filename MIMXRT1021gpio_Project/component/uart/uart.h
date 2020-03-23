@@ -10,7 +10,7 @@
 #define __HAL_UART_ADAPTER_H__
 
 #if defined(FSL_RTOS_FREE_RTOS)
-#include "FreeRTOS.h"
+//#include "FreeRTOS.h"
 #endif
 
 /*!

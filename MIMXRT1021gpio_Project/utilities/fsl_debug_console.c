@@ -42,9 +42,9 @@
 #endif
 
 #ifdef FSL_RTOS_FREE_RTOS
-#include "FreeRTOS.h"
-#include "semphr.h"
-#include "task.h"
+//#include "FreeRTOS.h"
+//#include "semphr.h"
+//#include "task.h"
 #endif
 
 #include "fsl_debug_console_conf.h"

@@ -333,3 +333,391 @@ Caused by: java.lang.IllegalArgumentException: Attempted to beginRule: R/, does 
 
 !ENTRY org.eclipse.cdt.core 1 0 2020-03-23 14:44:31.561
 !MESSAGE Indexed 'MIMXRT1021gpio_Project' (25 sources, 56 headers) in 1.7 sec: 11,670 declarations; 26,599 references; 7 unresolved inclusions; 33 syntax errors; 169 unresolved names (0.44%)
+
+!ENTRY com.nxp.swtools.periphs.model.yaml.converters 4 0 2020-03-23 15:06:45.523
+!MESSAGE No MCU was loaded from YAML
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.243
+!MESSAGE Could not find any matching component for type rtwdog
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.255
+!MESSAGE Could not find any matching component for type cmp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.265
+!MESSAGE Could not find any matching component for type pwm
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.277
+!MESSAGE Could not find any matching component for type spdif
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.304
+!MESSAGE Could not find any matching component for type flexio_i2s
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.315
+!MESSAGE Could not find any matching component for type TRNG
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.335
+!MESSAGE Could not find any matching component for type dcp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.347
+!MESSAGE Could not find any matching component for type adc_12b1msps_sar
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.360
+!MESSAGE Could not find any matching component for type flexio_spi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.372
+!MESSAGE Could not find any matching component for type tempmon
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.390
+!MESSAGE Could not find any matching component for type snvs_hp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.416
+!MESSAGE Could not find any matching component for type sai
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.434
+!MESSAGE Could not find any matching component for type enc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.453
+!MESSAGE Could not find any matching component for type edma
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.471
+!MESSAGE Could not find any matching component for type semc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.490
+!MESSAGE Could not find any matching component for type snvs_lp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.501
+!MESSAGE Could not find any matching component for type flexspi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.512
+!MESSAGE Could not find any matching component for type flexio_uart
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.531
+!MESSAGE Could not find any matching component for type wdog01
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.542
+!MESSAGE Could not find any matching component for type kpp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.580
+!MESSAGE Could not find any matching component for type adc_etc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.598
+!MESSAGE Could not find any matching component for type flexio_i2c_master
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.631
+!MESSAGE Could not find any matching component for type flexcan
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.642
+!MESSAGE Could not find any matching component for type aoi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.654
+!MESSAGE Could not find any matching component for type ewm
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:05.666
+!MESSAGE Could not find any matching component for type qtmr
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.058
+!MESSAGE Could not find any matching component for type rtwdog
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.069
+!MESSAGE Could not find any matching component for type cmp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.079
+!MESSAGE Could not find any matching component for type pwm
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.090
+!MESSAGE Could not find any matching component for type spdif
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.114
+!MESSAGE Could not find any matching component for type flexio_i2s
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.125
+!MESSAGE Could not find any matching component for type TRNG
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.142
+!MESSAGE Could not find any matching component for type dcp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.152
+!MESSAGE Could not find any matching component for type adc_12b1msps_sar
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.162
+!MESSAGE Could not find any matching component for type flexio_spi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.173
+!MESSAGE Could not find any matching component for type tempmon
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.190
+!MESSAGE Could not find any matching component for type snvs_hp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.215
+!MESSAGE Could not find any matching component for type sai
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.232
+!MESSAGE Could not find any matching component for type enc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.249
+!MESSAGE Could not find any matching component for type edma
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.267
+!MESSAGE Could not find any matching component for type semc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.285
+!MESSAGE Could not find any matching component for type snvs_lp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.295
+!MESSAGE Could not find any matching component for type flexspi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.306
+!MESSAGE Could not find any matching component for type flexio_uart
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.323
+!MESSAGE Could not find any matching component for type wdog01
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.333
+!MESSAGE Could not find any matching component for type kpp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.373
+!MESSAGE Could not find any matching component for type adc_etc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.391
+!MESSAGE Could not find any matching component for type flexio_i2c_master
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.423
+!MESSAGE Could not find any matching component for type flexcan
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.433
+!MESSAGE Could not find any matching component for type aoi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.444
+!MESSAGE Could not find any matching component for type ewm
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:07:18.454
+!MESSAGE Could not find any matching component for type qtmr
+
+!ENTRY com.nxp.swtools.periphs.model.yaml.converters 4 0 2020-03-23 15:14:54.264
+!MESSAGE No MCU was loaded from YAML
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.858
+!MESSAGE Could not find any matching component for type rtwdog
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.868
+!MESSAGE Could not find any matching component for type cmp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.878
+!MESSAGE Could not find any matching component for type pwm
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.888
+!MESSAGE Could not find any matching component for type spdif
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.911
+!MESSAGE Could not find any matching component for type flexio_i2s
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.921
+!MESSAGE Could not find any matching component for type TRNG
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.938
+!MESSAGE Could not find any matching component for type dcp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.948
+!MESSAGE Could not find any matching component for type adc_12b1msps_sar
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.959
+!MESSAGE Could not find any matching component for type flexio_spi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.969
+!MESSAGE Could not find any matching component for type tempmon
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:31.986
+!MESSAGE Could not find any matching component for type snvs_hp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.010
+!MESSAGE Could not find any matching component for type sai
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.026
+!MESSAGE Could not find any matching component for type enc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.043
+!MESSAGE Could not find any matching component for type edma
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.059
+!MESSAGE Could not find any matching component for type semc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.075
+!MESSAGE Could not find any matching component for type snvs_lp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.085
+!MESSAGE Could not find any matching component for type flexspi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.095
+!MESSAGE Could not find any matching component for type flexio_uart
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.112
+!MESSAGE Could not find any matching component for type wdog01
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.122
+!MESSAGE Could not find any matching component for type kpp
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.158
+!MESSAGE Could not find any matching component for type adc_etc
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.175
+!MESSAGE Could not find any matching component for type flexio_i2c_master
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.205
+!MESSAGE Could not find any matching component for type flexcan
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.215
+!MESSAGE Could not find any matching component for type aoi
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.224
+!MESSAGE Could not find any matching component for type ewm
+
+!ENTRY com.nxp.swtools.periphs.gui.view 4 0 2020-03-23 15:15:32.234
+!MESSAGE Could not find any matching component for type qtmr
+
+!ENTRY com.nxp.swtools.periphs.model.yaml.converters 4 0 2020-03-23 15:17:43.707
+!MESSAGE No MCU was loaded from YAML
+!SESSION 2020-03-23 15:34:28.986 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data file:/home/bop/Documents/MCUXpresso_11.1.0_3209/workspace/ -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.egit.core 1 0 2020-03-23 15:34:35.790
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface 2 0 2020-03-23 15:34:37.241
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-03-23 15:34:37.241
+!MESSAGE A conflict occurred for CTRL+U:
+Binding(CTRL+U,
+	ParameterizedCommand(Command(org.eclipse.jdt.debug.ui.commands.Execute,Execute,
+		Evaluate selected text,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5364b481,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+U,
+	ParameterizedCommand(Command(com.nxp.swtools.clocks.commands.unlockAll,Unlock All Settings,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62ec4146,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-03-23 15:34:43.926
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2020-03-23 15:34:43.943
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType
+
+!ENTRY com.crt.log 1 0 2020-03-23 15:43:17.406
+!MESSAGE Trying to connect to redlink server on port 3025.
+
+!ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 1 0 2020-03-23 15:43:17.409
+!MESSAGE RedlinkServer telnet session connected on port 3025->40628 @ 127.0.0.1
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 4 2020-03-23 15:43:25.927
+!MESSAGE NullPointerException while trying to calculated source lookup path. This can be ignored if it occurs while terminating a debug session. See Bug 500988.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.cdt.debug.core.sourcelookup.CProjectSourceContainer.createFolderSourceContainers(CProjectSourceContainer.java:238)
+	at org.eclipse.cdt.debug.core.sourcelookup.CProjectSourceContainer.createSourceContainers(CProjectSourceContainer.java:218)
+	at org.eclipse.debug.core.sourcelookup.containers.CompositeSourceContainer.getSourceContainers(CompositeSourceContainer.java:127)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbSourceLookupDirector.collectSubstitutionsPaths(GdbSourceLookupDirector.java:114)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbSourceLookupDirector.collectSubstitutionsPaths(GdbSourceLookupDirector.java:146)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbSourceLookupDirector.getSubstitutionsPaths(GdbSourceLookupDirector.java:72)
+	at org.eclipse.cdt.dsf.gdb.service.GDBSourceLookup.getSubstitutionsPaths(GDBSourceLookup.java:103)
+	at org.eclipse.cdt.dsf.gdb.service.GDBSourceLookup.sourceContainersChanged(GDBSourceLookup.java:118)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbSourceLookupParticipant.sourceContainersChangedOnDispatchThread(GdbSourceLookupParticipant.java:120)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbSourceLookupParticipant$1.run(GdbSourceLookupParticipant.java:85)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY com.nxp.mcuxpresso.core.debug 1 0 2020-03-23 15:43:27.439
+!MESSAGE Telnet session connected on port 3330->40246 @ 127.0.0.1
+
+!ENTRY com.nxp.swtools.periphs.model.yaml.converters 4 0 2020-03-23 20:42:29.792
+!MESSAGE No MCU was loaded from YAML
+
+!ENTRY com.crt.log 1 0 2020-03-23 20:57:39.045
+!MESSAGE Trying to connect to redlink server on port 3025.
+
+!ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 1 0 2020-03-23 20:57:40.047
+!MESSAGE RedlinkServer telnet session connected on port 3025->45696 @ 127.0.0.1
+
+!ENTRY com.nxp.mcuxpresso.core.debug 1 0 2020-03-23 20:57:51.140
+!MESSAGE Telnet session connected on port 3330->45316 @ 127.0.0.1
+
+!ENTRY com.crt.log 1 0 2020-03-23 21:12:34.702
+!MESSAGE Trying to connect to redlink server on port 3025.
+
+!ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 1 0 2020-03-23 21:12:35.705
+!MESSAGE RedlinkServer telnet session connected on port 3025->45902 @ 127.0.0.1
+
+!ENTRY com.nxp.mcuxpresso.core.debug 1 0 2020-03-23 21:12:42.609
+!MESSAGE Telnet session connected on port 3330->45520 @ 127.0.0.1
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-03-23 21:13:22.964
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.ImmediateRequestMonitor@30b94487): Status ERROR: org.eclipse.cdt.dsf.gdb code=10003 Invalid context type. null' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10003 2020-03-23 21:13:22.964
+!MESSAGE Invalid context type.
+
+!ENTRY com.crt.log 1 0 2020-03-23 21:27:05.606
+!MESSAGE Trying to connect to redlink server on port 3025.
+
+!ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 1 0 2020-03-23 21:27:06.607
+!MESSAGE RedlinkServer telnet session connected on port 3025->46246 @ 127.0.0.1
+
+!ENTRY com.nxp.mcuxpresso.core.debug 1 0 2020-03-23 21:27:08.713
+!MESSAGE Telnet session connected on port 3330->45864 @ 127.0.0.1
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-03-23 21:28:02.002
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.ImmediateRequestMonitor@7cd7758): Status ERROR: org.eclipse.cdt.dsf.gdb code=10003 Invalid context type. null' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10003 2020-03-23 21:28:02.002
+!MESSAGE Invalid context type.
+
+!ENTRY com.crt.log 1 0 2020-03-23 21:36:10.826
+!MESSAGE Trying to connect to redlink server on port 3025.
+
+!ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 1 0 2020-03-23 21:36:10.836
+!MESSAGE RedlinkServer telnet session connected on port 3025->46436 @ 127.0.0.1
+
+!ENTRY com.nxp.mcuxpresso.core.debug 1 0 2020-03-23 21:36:12.946
+!MESSAGE Telnet session connected on port 3330->46054 @ 127.0.0.1
+
+!ENTRY com.crt.log 1 0 2020-03-23 21:38:29.289
+!MESSAGE Trying to connect to redlink server on port 3025.
+
+!ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 1 0 2020-03-23 21:38:30.292
+!MESSAGE RedlinkServer telnet session connected on port 3025->46516 @ 127.0.0.1
+
+!ENTRY com.nxp.mcuxpresso.core.debug 1 0 2020-03-23 21:38:37.068
+!MESSAGE Telnet session connected on port 3330->46134 @ 127.0.0.1
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-03-23 21:38:41.048
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.ImmediateRequestMonitor@40b44efc): Status ERROR: org.eclipse.cdt.dsf.gdb code=10003 Invalid context type. null' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10003 2020-03-23 21:38:41.048
+!MESSAGE Invalid context type.
+
+!ENTRY com.crt.log 1 0 2020-03-23 21:40:29.084
+!MESSAGE Trying to connect to redlink server on port 3025.
+
+!ENTRY com.nxp.mcuxpresso.core.debug.support.linkserver 1 0 2020-03-23 21:40:30.087
+!MESSAGE RedlinkServer telnet session connected on port 3025->46534 @ 127.0.0.1
+
+!ENTRY com.nxp.mcuxpresso.core.debug 1 0 2020-03-23 21:40:37.529
+!MESSAGE Telnet session connected on port 3331->45872 @ 127.0.0.1
+
+!ENTRY com.nxp.swtools.mux.view 4 0 2020-03-23 22:00:06.223
+!MESSAGE waitUntilUpdated(): project.waitUntilValidated() failed
+
+!ENTRY com.nxp.swtools.utils 4 0 2020-03-23 22:00:06.224
+!MESSAGE saveConfiguration: waitUntilUpdated failed for tool: Pins
