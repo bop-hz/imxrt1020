@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MIMXRT1021xxxxx_Project&apos; to &apos;MIMXRT1021gpio_Project&apos;" description="Rename resource &apos;MIMXRT1021xxxxx_Project&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/MIMXRT1021xxxxx_Project" name="MIMXRT1021gpio_Project" stamp="1584971069152" updateReferences="true"/>
+</session>
