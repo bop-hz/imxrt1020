@@ -1,0 +1,6 @@
+12:09:38 **** Incremental Build of configuration Debug for project MIMXRT1021xxxxx_Project ****
+make -r -j8 all 
+make: Nothing to be done for 'all'.
+
+12:09:39 Build Finished. 0 errors, 0 warnings. (took 529ms)
+
