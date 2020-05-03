@@ -6,7 +6,7 @@
  * Generated linker script file for MIMXRT1021xxxxx
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.23
- * MCUXpresso IDE v11.1.0 [Build 3209] [2019-12-12] on Mar 24, 2020 1:21:39 PM
+ * MCUXpresso IDE v11.1.0 [Build 3209] [2019-12-12] on Mar 24, 2020 6:07:27 PM
  */
 
 INCLUDE "MIMXRT1021gpio_Project_Debug_library.ld"
@@ -16,23 +16,7 @@ ENTRY(ResetISR)
 
 SECTIONS
 {
-     /* Image Vector Table and Boot Data for booting from external flash */
-    .boot_hdr : ALIGN(4)
-    {
-        FILL(0xff)
-        __boot_hdr_start__ = ABSOLUTE(.) ;
-        KEEP(*(.boot_hdr.conf))
-        . = 0x1000 ;
-        KEEP(*(.boot_hdr.ivt))
-        . = 0x1020 ;
-        KEEP(*(.boot_hdr.boot_data))
-        . = 0x1030 ;
-        KEEP(*(.boot_hdr.dcd_data))
-        __boot_hdr_end__ = ABSOLUTE(.) ;
-        . = 0x2000 ;
-    } >BOARD_FLASH
-
-    /* MAIN TEXT SECTION */
+     /* MAIN TEXT SECTION */
     .text : ALIGN(4)
     {
         FILL(0xff)
@@ -75,14 +59,14 @@ SECTIONS
 
         *(.after_vectors*)
 
-    } > BOARD_FLASH
+    } > SRAM_DTC
 
     .text : ALIGN(4)
     {
        *(.text*)
        *(.rodata .rodata.* .constdata .constdata.*)
        . = ALIGN(4);
-    } > BOARD_FLASH
+    } > SRAM_DTC
     /*
      * for exception handling/unwind - some Newlib functions (in common
      * with C++ and STDC++) use this. 
@@ -90,14 +74,14 @@ SECTIONS
     .ARM.extab : ALIGN(4) 
     {
         *(.ARM.extab* .gnu.linkonce.armextab.*)
-    } > BOARD_FLASH
+    } > SRAM_DTC
 
     __exidx_start = .;
 
     .ARM.exidx : ALIGN(4)
     {
         *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-    } > BOARD_FLASH
+    } > SRAM_DTC
     __exidx_end = .;
  
     _etext = .;
@@ -118,7 +102,7 @@ SECTIONS
         . = ALIGN(4) ;
         PROVIDE(__end_data_RAM2 = .) ;
         PROVIDE(__end_data_SRAM_ITC = .) ;
-     } > SRAM_ITC AT>BOARD_FLASH
+     } > SRAM_ITC AT>SRAM_DTC
 
     /* DATA section for SRAM_OC */
 
@@ -136,7 +120,7 @@ SECTIONS
         . = ALIGN(4) ;
         PROVIDE(__end_data_RAM3 = .) ;
         PROVIDE(__end_data_SRAM_OC = .) ;
-     } > SRAM_OC AT>BOARD_FLASH
+     } > SRAM_OC AT>SRAM_DTC
 
     /* DATA section for BOARD_SDRAM */
 
@@ -154,7 +138,7 @@ SECTIONS
         . = ALIGN(4) ;
         PROVIDE(__end_data_RAM4 = .) ;
         PROVIDE(__end_data_BOARD_SDRAM = .) ;
-     } > BOARD_SDRAM AT>BOARD_FLASH
+     } > BOARD_SDRAM AT>SRAM_DTC
 
     /* DATA section for NCACHE_REGION */
 
@@ -172,7 +156,7 @@ SECTIONS
         . = ALIGN(4) ;
         PROVIDE(__end_data_RAM5 = .) ;
         PROVIDE(__end_data_NCACHE_REGION = .) ;
-     } > NCACHE_REGION AT>BOARD_FLASH
+     } > NCACHE_REGION AT>SRAM_DTC
 
     /* MAIN DATA SECTION */
     .uninit_RESERVED (NOLOAD) : ALIGN(4)
@@ -200,7 +184,7 @@ SECTIONS
        _edata = . ;
        PROVIDE(__end_data_RAM = .) ;
        PROVIDE(__end_data_SRAM_DTC = .) ;
-    } > SRAM_DTC AT>BOARD_FLASH
+    } > SRAM_DTC AT>SRAM_DTC
 
     /* BSS section for SRAM_ITC */
     .bss_RAM2 : ALIGN(4)

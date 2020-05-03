@@ -11,7 +11,7 @@
 <stringAttribute key="com.crt.ctrlcenter.serialNumber" value="LinkServerARMDAPLink CMSIS-DAP0226000040214e4500441018c892002d9e11000097969900"/>
 <mapAttribute key="com.crt.ctrlcenter.symbolsGroupSettings"/>
 <intAttribute key="com.crt.ctrlcenter.version" value="6"/>
-<stringAttribute key="com.nxp.mcuxpresso.flash.base.address" value="0x60000000"/>
+<stringAttribute key="com.nxp.mcuxpresso.flash.base.address" value=""/>
 <booleanAttribute key="com.nxp.mcuxpresso.flash.clear.console" value="true"/>
 <booleanAttribute key="com.nxp.mcuxpresso.flash.confirm" value="false"/>
 <stringAttribute key="com.nxp.mcuxpresso.flash.erase.algorithm" value="Mass erase"/>

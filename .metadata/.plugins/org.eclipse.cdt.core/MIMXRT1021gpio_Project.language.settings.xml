@@ -49,7 +49,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -100,7 +102,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -151,7 +155,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -202,7 +208,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -253,7 +261,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -304,7 +314,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -355,7 +367,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -406,7 +420,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -457,7 +473,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -508,7 +526,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -559,7 +579,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -610,7 +632,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -661,7 +685,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -712,7 +738,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -763,7 +791,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -814,7 +844,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -865,7 +897,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -916,7 +950,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -967,7 +1003,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -1018,7 +1056,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -1069,7 +1109,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -1120,7 +1162,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -1171,7 +1215,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -1222,7 +1268,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>
@@ -1273,7 +1321,9 @@
 						<entry kind="macro" name="SDK_OS_BAREMETAL" value="1"/>
 						<entry kind="macro" name="SDK_OS_FREE_RTOS" value="1"/>
 						<entry kind="macro" name="SERIAL_PORT_TYPE_UART" value="1"/>
+						<entry kind="macro" name="SKIP_SYSCLK_INIT" value="1"/>
 						<entry kind="macro" name="XIP_BOOT_HEADER_ENABLE" value="1"/>
+						<entry kind="macro" name="XIP_BOOY_HEADER_DCD_ENABLE" value="1"/>
 						<entry kind="macro" name="XIP_EXTERNAL_FLASH" value="1"/>
 						<entry kind="macro" name="__MCUXPRESSO" value="1"/>
 						<entry kind="macro" name="__REDLIB__" value="1"/>

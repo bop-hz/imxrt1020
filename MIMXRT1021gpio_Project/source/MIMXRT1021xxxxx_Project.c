@@ -63,7 +63,7 @@ int main(void) {
 
     /* Enter an infinite loop, just incrementing a counter. */
     while(1) {
-    	SDK_DelayAtLeastUs(100000, SDK_DEVICE_MAXIMUM_CPU_CLOCK_FREQUENCY);
+    	SDK_DelayAtLeastUs(1000000, SDK_DEVICE_MAXIMUM_CPU_CLOCK_FREQUENCY);
     	GPIO_PortToggle(BOARD_USER_LED_GPIO,1u<<BOARD_USER_LED_GPIO_PIN);
     }
     return 0 ;

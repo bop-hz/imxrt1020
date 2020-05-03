@@ -1,0 +1,11 @@
+core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+fsl_common.h:460:28:EnableIRQ	16	static
+fsl_qtmr.h:384:20:QTMR_StartTimer	24	static
+fsl_lpspi.h:497:20:LPSPI_Enable	16	static
+fsl_lpspi.h:581:20:LPSPI_ClearStatusFlags	16	static
+fsl_lpspi.h:623:20:LPSPI_DisableInterrupts	16	static
+fsl_lpspi.h:765:20:LPSPI_SetFifoWatermarks	24	static
+fsl_lpspi.h:910:20:LPSPI_WriteData	16	static
+qtmr_inputcapture_outputpwm.c:68:6:TMR2_IRQHandler	8	static
+qtmr_inputcapture_outputpwm.c:79:6:XBAR1_IRQ_0_1_IRQHandler	8	static
+qtmr_inputcapture_outputpwm.c:93:5:main	80	static
